@@ -29,3 +29,8 @@ The following images show the web application's appearance and functionality:
 ![Mock-up](public\assets\Images\mock-up1.png)
 
 ![mock-up](public\assets\Images\mock-up2.png)
+
+## Screenshot
+
+![](public\assets\Images\note-taker.png)
+
