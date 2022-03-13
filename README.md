@@ -26,11 +26,20 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 The following images show the web application's appearance and functionality:
 
-![Mock-up](public\assets\Images\mock-up1.png)
+![Mock-up](./public/assets/Images/mock-up1.png)
 
-![mock-up](public\assets\Images\mock-up2.png)
+![mock-up](./public/assets/Images/mock-up2.png)
 
 ## Screenshot
 
-![](public\assets\Images\note-taker.png)
+![](./public/assets/Images/note-taker.png)
+
+
+# GitHub URL:
+
+https://github.com/dieres2010/note-taker.git
+
+# Heroku Link:
+
+https://infinite-crag-03666.herokuapp.com/
 
